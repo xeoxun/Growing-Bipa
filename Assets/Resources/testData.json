@@ -1,0 +1,60 @@
+{
+  "stores": [
+    {
+      "storeName": "주차장 휴게소",
+      "address": "전남 목포시 유달로 190 주차장휴게소",
+      "menu": "닭볶음탕",
+      "hungry": 50,
+      "foodPrice": 20000
+    },
+    {
+      "storeName": "선경준치회집",
+      "address": "전남 목포시 해안로57번길 2",
+      "menu": "민어회",
+      "hungry": 20,
+      "foodPrice": 21000
+    },
+    {
+      "storeName": "태동반점",
+      "address": "전남 목포시 마인계터로40번길 10-1",
+      "menu": "중깐",
+      "hungry": 20,
+      "foodPrice": 8000
+    },
+    {
+      "storeName": "소주주소",
+      "address": "전남 목포시 원산로69번안길 2 1층 소주주소 북항점",
+      "menu": "광어&연어 반반",
+      "hungry": 40,
+      "foodPrice": 35000
+    },
+    {
+      "storeName": "달밤",
+      "address": "전라남도 목포시 해양대학교 91",
+      "menu": "조개구이 세트",
+      "hungry": 30,
+      "foodPrice": 22500
+    },
+    {
+      "storeName": "달동네",
+      "address": "전남 목포시 원산중앙로 22",
+      "menu": "옛날통닭",
+      "hungry": 40,
+      "foodPrice": 19000
+    },
+    {
+      "storeName": "카츠타케 목포본점",
+      "address": "전남 목포시 유동로42번길 10-2 1층",
+      "menu": "히레카츠",
+      "hungry": 30,
+      "foodPrice": 17000
+    },
+    {
+      "storeName": "월간맥주",
+      "address": "전라남도 목포시 원산로",
+      "menu": "고구마치즈피자",
+      "hungry": 40,
+      "foodPrice": 30000
+    }
+  ]
+}
